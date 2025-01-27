@@ -1,0 +1,10 @@
+john.doe@outlook.com
+sara.harris@gmail.com
+michael.brown@yahoo.com
+lisa.jones@protonmail.com
+david.smith@zoho.com
+emily.martin@icloud.com
+robert.lee@aol.com
+anna.wilson@live.com
+charles.jones@inbox.com
+sophia.green@mail.com

@@ -1,0 +1,5 @@
+        scanf("%d", &number);
+    scanf("%s", name);
+    scanf("%f", &grade);
+    scanf("%d", &age);
+        scanf("%d %d", &x, &y);
